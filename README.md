@@ -2,10 +2,9 @@
 
 **Medicolor** is a console tool to convert images color for simulation of color vision deficiency.
 
-|    |    |
-| -- | -- |
-| Normal | <img alt="sample-image" width="40%" src="docs/assets/sample1.png"/> |
-| Tritanomaly | <img alt="sample-image" width="40%" src="docs/assets/sample1-after.png"/> |
+| Normal | Protanomaly | Deuteranomaly | Tritanomaly |
+| -- | -- | -- | -- |
+| ![sample-image](docs/assets/sample1-0.png) | ![sample-image](docs/assets/sample1-1.png) | ![sample-image](docs/assets/sample1-2.png) | ![sample-image](docs/assets/sample1-3.png) |
 
 You can run Medicolor on Windows (x86, x64, arm64), macOS (x64, arm64) and Linux (x64, arm64).
 
