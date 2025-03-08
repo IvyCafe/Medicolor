@@ -1,6 +1,7 @@
 ﻿using Microsoft.Maui.Graphics;
 using Microsoft.Maui.Graphics.Platform;
 using Microsoft.Maui.Graphics.Skia;
+
 using SkiaSharp;
 
 namespace Medicolor;
