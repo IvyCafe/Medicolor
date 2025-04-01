@@ -6,7 +6,14 @@
 | -- | -- | -- | -- |
 | ![sample-image](docs/assets/sample1-0.png) | ![sample-image](docs/assets/sample1-1.png) | ![sample-image](docs/assets/sample1-2.png) | ![sample-image](docs/assets/sample1-3.png) |
 
-You can run Medicolor on Windows (x86, x64, arm64), macOS (x64, arm64) and Linux (x64, arm64).
+You can run Medicolor on the major desktop platforms (Linux, macOS, Windows).
+
+<!--
+Arch:
+- Linux (x64, arm64)
+- macOS (x64, arm64)
+- Windows (x86, x64, arm64)
+-->
 
 <!--
 ## Installation
