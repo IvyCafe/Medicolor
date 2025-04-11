@@ -21,6 +21,28 @@ Arch:
 (To Be Write)
 -->
 
+## Usage
+
+```sh
+medicolor <image-path>
+
+# e.g.
+# medicolor ./sample.png
+
+# then, select color-type in your console
+# (output file name is "./output.png")
+```
+
+or
+
+```sh
+medicolor <image-path> <output-color-type>
+# <output-color-type>: (1 = Protanomaly, 2 = Deuteranomaly, 3 = Tritanomaly)
+
+# e.g.
+# medicolor ./sample 2
+```
+
 ## Acknowledgments
 
 Super Thanks:
