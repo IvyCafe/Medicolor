@@ -33,8 +33,6 @@ medicolor <image-path>
 # (output file name is "./output.png")
 ```
 
-or
-
 ```sh
 medicolor <image-path> <output-color-type>
 # <output-color-type>: (1 = Protanomaly, 2 = Deuteranomaly, 3 = Tritanomaly)
